@@ -44,6 +44,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="64" />
   <img src="https://camo.githubusercontent.com/36965cb1d86ecc5ccb8773e779b910ba6b36ecdb506470543ae71ba189138411/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f3833333738393437333337363835343031382f736b5363656748365f343030783430302e6a7067" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="64" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="64" />
 </div>
 
 ### Frameworks : 
@@ -55,6 +56,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="64" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="64" />
 </div>
 
 ### Database :
